@@ -1,3 +1,4 @@
+package peli;
 /*
  * Scanner-luokan palveluita hyödyntävä apuluokka int-, double-, char-
  * ja String-tyyppisten syötteiden lukemiseen. Operaatiot lukevat syötettä

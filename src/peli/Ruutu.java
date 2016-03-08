@@ -1,3 +1,5 @@
+package peli;
+
 public class Ruutu{
    
   // ATTRIBUUTIT

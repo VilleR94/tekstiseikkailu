@@ -1,3 +1,5 @@
+package peli;
+
 class Isku {
   public static int pelaajaIsku(){
         int omaisku = (1 + (int)(Math.random() * ((6 - 1) + 1)));       // Omat iskut

@@ -1,3 +1,5 @@
+package peli;
+
 class Tekstiseikkailu{
      
     public static void main(String[] args) {
